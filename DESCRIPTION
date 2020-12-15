@@ -1,0 +1,13 @@
+Package: CIFpredictor
+Type: Package
+Title: CIF Predictor 
+Version: 0.0.1
+Author: Weixian Deng
+Maintainer: Weixian Deng <WeixianDeng@ucla.edu>
+Description: This package is for predicting peptide elution profile using CIF fractionation method developed by 
+  Weixian Deng from Kathrin Plath and James Wohlschlegel labs at UCLA.
+License: AGPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: Peptides
